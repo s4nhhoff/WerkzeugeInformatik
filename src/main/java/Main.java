@@ -1,4 +1,4 @@
-Bpublic class Main {
+Apublic class Main {
 
     public static void main(String[] args) {
         Factory factory = new Factory();
